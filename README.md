@@ -16,7 +16,7 @@ How different campaigns fared in relation to their launch dates and their fundin
 
 ### 2 key questions: 
 1. How much should you set your goal for?
-   - $35,000-$40,000 (then less than $1,000)
+   - less than $1,000 (then $35,000-$40,000)
 2. What is the best time of year to launch your kickstarter?
    - May (then June, then July)
 
@@ -26,7 +26,7 @@ How different campaigns fared in relation to their launch dates and their fundin
 Data gathered from over 4,000 kickstarted campaigns from all over the world. Out of 9 subcategories, over 25% of the kickstarters were for theatre productions!  This tells us kickstarter funding is a very popular mean of raising money for theatre productions. We're already off to a positive start!
 
 #### 1. How much should you set my goal for? :heavy_dollar_sign:
-The most success came from kickstarters asking for under $1,000 goal. The second most successful range was $35,000-$40,000. Maybe there is a split between wealthier people's donations and the "starving artist" supporters' donations. Maybe it has to do with the feel of $35,000 feeling like a lot less than say $50,000 which suddenly seems like too much. Or maybe there is a tax break for donations over a certain amount. And maybe the under $1,000 bracket is more attainable for donors of all income levels. Because of the drastic spike in the $35k-$40k bracket, there must be something else going on there to justify more in-depth research.  But for now, the numbers speak... either set the goal for under $1,000 or go big and ask for $35,000-$40,000. 
+The most success came from kickstarters asking for under $1,000 goal. It's possible the under $1,000 bracket is more attractive for donors of all income levels. The second most successful range was $35,000-$40,000. Maybe there is a split between wealthier people's donations and the "starving artist" supporters' donations. Maybe it has to do with the feel of $35,000 feeling like a lot less than say $50,000 which suddenly seems like too much. Or maybe there is a tax break for donations over a certain amount. Because of the drastic spike in the $35k-$40k bracket, there must be something else going on there to justify more in-depth research.  Maybe ther are some outliers?  
 
 <p align="center"><img width="800" height="350" src="images/Outcomes_vs_Goals.png"></p>
 
