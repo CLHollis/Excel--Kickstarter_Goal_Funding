@@ -1,5 +1,5 @@
 # Excel--Kickstarter_Goal_Funding
-[Lesson_Workbook.xlsx]( Lesson_Workbook.xlsx) | [Lesson Notes](Lesson_Notes.pdf) | Excel formatting, filtering, pivot tables, functions, vlookups, graphs & charts, statistics (measures of central tendency, quartiles, & outliers)
+[Module_Workbook.xlsx](Module_Workbook.xlsx) | [Module_Notes](Module_Notes.pdf) | Excel formatting, filtering, pivot tables, functions, vlookups, graphs & charts, statistics (measures of central tendency, quartiles, & outliers)
 
 ## Bootcamp challenge:  [Kickstarter_Challenge.xlsx]( Kickstarter_Challenge.xlsx)
 How different campaigns fared in relation to their launch dates and their funding goals?
