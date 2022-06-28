@@ -1,7 +1,23 @@
 # Excel--Kickstarter_Goal_Funding
-![This is an image](images/header_image.PNG)
 
-## Wash your theatrical-funding-worries away!
+### Online workbook: 
+SKILLS: Excel formatting, filtering, pivot tables, functions, Vlookups, graphs & charts
+
+### First Bootcamp challenge:
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. 
+1. Use pivot tables and graphing to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date.
+2. Visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
+3. Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+4. Results: 
+   - What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+   - What can you conclude about the Outcomes based on Goals?
+   - What are some limitations of this dataset?
+   - What are some other possible tables and/or graphs that we could create?
+
+-------------------------------------------------------
+
+# Wash your theatrical-funding-worries away!
+![This is an image](images/header_image.PNG)
 
 Are you launching a kickstarter campaign for your next theatrical production and don't know how to start?
 Before you launch, lets focus on some preliminary questions to ensure the highest possible success: 
