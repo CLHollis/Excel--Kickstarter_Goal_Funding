@@ -22,7 +22,7 @@ How different campaigns fared in relation to their launch dates and their fundin
 
 ### Validation 
 
-#### Inspect the Data
+#### Inspect the Data :bar_chart:
 Data gathered from over 4,000 kickstarted campaigns from all over the world. Out of 9 subcategories, over 25% of the kickstarters were for theatre productions!  This tells us kickstarter funding is a very popular mean of raising money for theatre productions. We're already off to a positive start!
 
 #### 1. How much should you set my goal for? :heavy_dollar_sign:
@@ -35,21 +35,19 @@ The volume of successful theatre campaigns start ramping up in March and start t
 
 <p align="center"><img width="550" height="350" src="images/Theater_Outcomes_vs_Launch.png"></p>
 
-## More Data Please! :1234:
+### More Data Please! :1234:
 After analyzing these questions, I can't help but wonder about the income levels of the doners of the successful campaigns vs. the failed campaigns. Maybe there is some marketing tactic that could be used in conjunction with choosing, for example, a $37,000 goal starting in April. And furthermore, what other marketing tactics were used in general? Are the leaders of the successful kickstarters also influencers? 
 
-## Making the Most of the Data We Have :recycle:
+### Making the Most of the Data We Have :recycle:
 Regarding income levels, analyzing the average donation amount for successful v. failed campaigns may help with pinpointing a target market. I would use a stacked bar chart to visualize this, with each bar representing income brackets based on federal tax levels and each bar divided into successful or failed (omitting canceled). 
 
 We could also compare for the length of the campaign as we already have start and end dates to better predict longevity with success. A clustered bar chart would be best suited for this visualization.
 
 Also, are all the amounts converted to US Dollars? Because there are different currencies listed in this data set, but only one row for "$." If the amounts have not been converted to US dollars, we would need to rework all this with the converted currency amounts.
 
+---------------------------
 
-
-
-
-## Works Cited:
+### Works Cited
 - This site was built using [GitHub Pages](https://pages.github.com/).
 - [Title Image](https://www.londontheatre1.com/wp-content/uploads/2020/03/Nt-Live.jpg)
 - [All emoji code came from ikatyang's "emoji-cheat-sheet" a public repository on GitHub](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#currency)
