@@ -1,6 +1,6 @@
 # Excel--Kickstarter_Goal_Funding
 
-### Online workbook:   [Lesson_Workbook.xlsx]( Lesson_Workbook.xlsx) | [Lesson Notes](Lesson Notes.pdf)
+### Online workbook:   [Lesson_Workbook.xlsx]( Lesson_Workbook.xlsx) | [Lesson Notes](Lesson_Notes.pdf)
 
 Featuring: Excel formatting, filtering, pivot tables, functions, vlookups, graphs & charts, statistics (measures of central tendency, quartiles, & outliers)
 
